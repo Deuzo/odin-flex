@@ -1,6 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,900&display=swap");
 body {
   margin: 0;
   padding: 0;
+  font-family: Roboto, sans-serif;
 }
 
 .header {
@@ -144,9 +146,10 @@ button:hover {
   flex-direction: column;
   max-width: 1000px;
 }
-.text1 {
+.para2 {
   font-size: 18px;
   font-style: italic;
+  font-family: sans-serif;
 }
 
 .auteur {
@@ -171,7 +174,7 @@ button:hover {
   gap: 50px;
   height: 100px;
 }
-.para2 {
+.para3 {
   font-size: 20px;
 }
 
